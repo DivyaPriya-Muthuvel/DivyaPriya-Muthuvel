@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Divya Priya Muthuvel.
-- 👀 I’m interested in Security and Cloud technology.
 - 🌱 I’m currently learning AWS and Devops.
 - 📫 Can connect with me at www.linkedin.com/in/divyapriyamuthuvel.
 - 📠 Check out my Blogs at https://medium.com/@dpriyamuthuvel4.
