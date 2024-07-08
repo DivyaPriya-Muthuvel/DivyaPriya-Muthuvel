@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divya Priya Muthuvel.
-- 🌱 I'm gaining practical insights as a DevOps intern at SloopStash.
+- 🌱 I'm gaining practical insights as a Associate DevOps Engineer at SloopStash.
 - 📫 Can connect with me at www.linkedin.com/in/divyapriyamuthuvel.
 - 📠 Check out my Blogs at https://medium.com/@dpriyamuthuvel4
 <!---
